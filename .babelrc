@@ -3,7 +3,7 @@
     [
       "es2015",
       {
-        "modules": false
+        "modules": true
       }
     ],
     // webpack understands the native import syntax, and uses it for tree shaking
